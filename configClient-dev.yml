@@ -3,7 +3,7 @@ server:
 env: dev
 spring:
   application:
-    name: configClient
+    name: configClient1
 eureka:
   client:
     service-url:
