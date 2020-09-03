@@ -1,9 +1,6 @@
 server:
     port: 3355
 env: dev
-spring:
-  application:
-    name: configClient1
 eureka:
   client:
     service-url:
